@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "UF4005"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-11-17-09:08:41)
+    (mountForm default
+        (footprintRef "DIOAD1510W84L490D255")
+        (spec "System")
+    )
+)

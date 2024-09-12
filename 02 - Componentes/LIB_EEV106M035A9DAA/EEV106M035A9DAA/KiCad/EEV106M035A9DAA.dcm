@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EEV106M035A9DAA
+D EEV, Aluminum, Aluminum Electrolytic, 10 uF, 20%, 35 VDC, -55/+105C, 105C, -55C, 105C, 2,000 Hrs, 12 % , 1 Ohms,0.112, 3.5 uA, 2, 3, 5mm, 5.4mm, 1000
+K
+F https://content.kemet.com/datasheets/KEM_A4002_EEV.pdf
+$ENDCMP
+#
+#End Doc Library

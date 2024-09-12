@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MAL215097803E3'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "MAL215097803E3" (!) = "", "CAPAE1050X1430N", "Capacitor Al Electrolytic", "594-MAL215097803E3", "https://www.mouser.co.uk/ProductDetail/Vishay-BC-Components/MAL215097803E3?qs=qmStTZH4TzkGiv%2F5tmpzfQ%3D%3D", "Aluminum Electrolytic Capacitors - SMD 100UF 63V 105C 3000H", "https://www.vishay.com/docs/28395/150crz.pdf", "14.3 mm"
+END_PART
+
+END.

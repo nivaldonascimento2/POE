@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '1N5819_E3_54'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Vishay", "1N5819-E3/54" (!) = "", "DIOAD1405W86L465D235", "Diodes, Axial Diameter Horizontal Mounting", "625-1N5819-E3", "https://www.mouser.co.uk/ProductDetail/Vishay-General-Semiconductor/1N5819-E3-54?qs=7w0fSgRKp93guDuu%252B5hJ0Q%3D%3D", "Vishay 1N5819-E3/54 Schottky Diode, 40V 1A, 2-Pin DO-204AL", "https://www.vishay.com/docs/88525/1n5817.pdf"
+END_PART
+
+END.

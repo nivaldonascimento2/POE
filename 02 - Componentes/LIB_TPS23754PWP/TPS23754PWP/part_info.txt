@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TPS23754PWP
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=21
+Version=3.1
+Released=2017-01-12 12:59:53
+Downloaded=2024-09-09 18:44:39
+3D=Y

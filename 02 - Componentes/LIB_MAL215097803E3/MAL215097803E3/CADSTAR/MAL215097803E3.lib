@@ -1,0 +1,16 @@
+.MAL215097803E3 :1 ;Aluminum Electrolytic Capacitors - SMD 100UF 63V 105C 3000H
+CAPAE1050X1430N
+*STM C
+*NGS
+*PLB 1="+" 2="-"
+*MXP 2
+*DFN MAL215097803E3
+~!Mouser Part Number (594-MAL215097803E3)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-BC-Components/MAL215097803E3?qs=qmStTZH4TzkGiv%2F5tmpzfQ%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (MAL215097803E3)
+~!Link Datasheet (https://www.vishay.com/docs/28395/150crz.pdf)
+~!Height (14.3mm)
+~!3D_Model (MAL215097803E3)
+MAL215097803E3
+1.1!U 2.1!U 

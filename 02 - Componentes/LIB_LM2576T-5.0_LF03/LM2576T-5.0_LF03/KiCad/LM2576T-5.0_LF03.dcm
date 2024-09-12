@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM2576T-5.0_LF03
+D Texas Instruments, LM2576T-5.0/LF03 Step-Down Switching Regulator 3A, 5 V, 5-Pin TO-220, Buck Controller
+K
+F http://www.ti.com/lit/gpn/LM2576
+$ENDCMP
+#
+#End Doc Library

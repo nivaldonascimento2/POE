@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "RCC1206470RFKEA"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-09-22-11:30:31)
+    (mountForm default
+        (footprintRef "RCC1206_e3")
+        (spec "System")
+    )
+)

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "11328-T060"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-09-17-08:48:42)
+    (mountForm default
+        (footprintRef "11328T060")
+        (spec "System")
+    )
+)

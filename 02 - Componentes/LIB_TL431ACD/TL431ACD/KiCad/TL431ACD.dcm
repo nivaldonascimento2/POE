@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TL431ACD
+D TL431ACD, Adjustable Voltage Reference 2.5 to 36V, 1% 100mA 37V max. 8-Pin SOIC
+K
+F https://www.ti.com/lit/ds/symlink/tl431.pdf?HQS=TI-null-null-mousermode-df-pf-null-wwe&ts=1593427466636&ref_url=https%253A%252F%252Fwww.mouser.in%252F
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,168 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "LT4320IMSE#PBF"
+   (description "Power Management Specialized - PMIC Ideal Diode Bridge Controller")
+   (family "ANA")
+   (package "SOP65P490X110-12N")
+   (attribute "Datasheet Link" "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/f9c8f44be51ba9be14d0fe4fedec3709.pdf")
+   (attribute "Geometry.Height" "1.1mm")
+   (attribute "Mouser Part Number" "584-LT4320IMSE#PBF")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Analog-Devices/LT4320IMSEPBF?qs=hVkxg5c3xu85qzc54VnZtw%3D%3D")
+   (attribute "Manufacturer_Name" "Analog Devices")
+   (attribute "Manufacturer_Part_Number" "LT4320IMSE#PBF")
+   (gate
+    (symbol "LT4320IMSE#PBF")
+    (pin "IN2" 1 IP)
+    (pin "TG2" 2 IO)
+    (pin "NC_1" 3 PS)
+    (pin "NC_2" 4 PS)
+    (pin "BG2" 5 IO)
+    (pin "BG1" 6 IO)
+    (pin "IN1" 12 IP)
+    (pin "TG1" 11 IO)
+    (pin "NC_4" 10 PS)
+    (pin "OUTP" 9 OP)
+    (pin "NC_3" 8 PS)
+    (pin "OUTN" 7 OP)
+   )
+  )
+  (symbol "LT4320IMSE#PBF"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 900 100) (pt 900 -600) (pt 200 -600) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SOP65P490X110-12N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -3.175 2.32)
+      (pt 3.175 2.32)
+      (pt 3.175 -2.32)
+      (pt -3.175 -2.32)
+      (pt -3.175 2.32))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.5 2.02)
+      (pt 1.5 2.02)
+      (pt 1.5 -2.02)
+      (pt -1.5 -2.02)
+      (pt -1.5 2.02))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.5 1.37)
+      (pt -0.85 2.02))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.15 2.02)
+      (pt 1.15 2.02)
+      (pt 1.15 -2.02)
+      (pt -1.15 -2.02)
+      (pt -1.15 2.02))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -2.925 2.2)
+      (pt -1.5 2.2))))
+   (leg 1 (pt -2.212 1.625) (padstack 0))
+   (leg 2 (pt -2.212 0.975) (padstack 0))
+   (leg 3 (pt -2.212 0.325) (padstack 0))
+   (leg 4 (pt -2.212 -0.325) (padstack 0))
+   (leg 5 (pt -2.212 -0.975) (padstack 0))
+   (leg 6 (pt -2.212 -1.625) (padstack 0))
+   (leg 7 (pt 2.212 -1.625) (padstack 0))
+   (leg 8 (pt 2.212 -0.975) (padstack 0))
+   (leg 9 (pt 2.212 -0.325) (padstack 0))
+   (leg 10 (pt 2.212 0.325) (padstack 0))
+   (leg 11 (pt 2.212 0.975) (padstack 0))
+   (leg 12 (pt 2.212 1.625) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.45 1.425 0 0 0))
+   )
+   (model "LT4320IMSE#PBF.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

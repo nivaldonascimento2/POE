@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'EEV106M035A9DAA'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "KEMET", "EEV106M035A9DAA" (!) = "", "CAPAE530X565N", "Capacitor Al Electrolytic", "80-EEV106M035A9DAA", "https://www.mouser.co.uk/ProductDetail/KEMET/EEV106M035A9DAA?qs=T9vdlufmP8w%252BWofJB8ECzg%3D%3D", "EEV, Aluminum, Aluminum Electrolytic, 10 uF, 20%, 35 VDC, -55/+105C, 105C, -55C, 105C, 2,000 Hrs, 12 % , 1 Ohms,0.112, 3.5 uA, 2, 3, 5mm, 5.4mm, 1000", "https://content.kemet.com/datasheets/KEM_A4002_EEV.pdf", "5.65 mm"
+END_PART
+
+END.

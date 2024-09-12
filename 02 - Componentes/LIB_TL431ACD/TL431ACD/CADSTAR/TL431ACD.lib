@@ -1,0 +1,16 @@
+.TL431ACD :1 ;TL431ACD, Adjustable Voltage Reference 2.5 to 36V, 1% 100mA 37V max. 8-Pin SOIC
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="CATHODE" 2="ANODE_1" 3="ANODE_2" 4="NC_1" 5="NC_2" 6="ANODE_3" 7="ANODE_4" 8="REF"
+*MXP 8
+*DFN TL431ACD
+~!Mouser Part Number (595-TL431ACD)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TL431ACD?qs=b0gIXGU74fOOZ7NbSZF2Kg%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TL431ACD)
+~!Link Datasheet (https://www.ti.com/lit/ds/symlink/tl431.pdf?HQS=TI-null-null-mousermode-df-pf-null-wwe&ts=1593427466636&ref_url=https%253A%252F%252Fwww.mouser.in%252F)
+~!Height (1.75mm)
+~!3D_Model (TL431ACD)
+TL431ACD
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

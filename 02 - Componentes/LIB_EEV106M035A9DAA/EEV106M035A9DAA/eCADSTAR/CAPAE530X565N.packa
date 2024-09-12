@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "EEV106M035A9DAA"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-04-12-04:13:35)
+    (mountForm default
+        (footprintRef "CAPAE530X565N")
+        (spec "System")
+    )
+)

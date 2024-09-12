@@ -1,0 +1,16 @@
+.EEE-FK1J100P :1 ;Aluminum Electrolytic Capacitors - SMD 10uF 63V
+EEE1AA101SP
+*STM C
+*NGS
+*PLB 1="+" 2="-"
+*MXP 2
+*DFN EEE-FK1J100P
+~!Mouser Part Number (667-EEE-FK1J100P)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=667-EEE-FK1J100P)
+~!Manufacturer_Name (Panasonic)
+~!Manufacturer_Part_Number (EEE-FK1J100P)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/EEE-FK1J100P.pdf)
+~!Height (7.8mm)
+~!3D_Model (EEE-FK1J100P)
+EEE-FK1J100P
+1.1!U 2.1!U 

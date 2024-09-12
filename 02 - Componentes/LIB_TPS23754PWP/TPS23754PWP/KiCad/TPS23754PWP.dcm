@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS23754PWP
+D Texas Instruments TPS23754PWP, DC-DC Controller, 57 V, DC to DC Isolator Converter, 278 kHz, 20-Pin, TSSOP
+K
+F http://www.ti.com/lit/gpn/tps23754
+$ENDCMP
+#
+#End Doc Library

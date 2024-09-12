@@ -1,0 +1,28 @@
+
+Para o projeto do sistema PoE, o fluxo de energia e sinais seria algo como:
+
+Entrada AC:
+
+A energia AC é recebida através do conector AC tipo C14 (ou similar) que você escolheu.
+Filtro e Proteção Inicial:
+
+Fusível (0154.500DRT): Protege contra sobrecargas e curtos-circuitos.
+Varistor (V275LA40CPX2855): Protege contra surtos de tensão.
+Capacitores de Filtro (EEU-ED2W471 e C0805C104K5RACTU): Filtram ruídos e estabilizam a tensão.
+Retificação e Filtragem:
+
+Retificador Sincronizado (LT4320IS8#PBF): Retifica a tensão AC para DC.
+Diodo Schottky (1N5819-E3/54): Ajuda na retificação com menor perda de tensão.
+Regulação e Proteção:
+
+Regulador de Tensão (LM2576T-5.0/NOPB): Regula a tensão DC para os 5V necessários (se necessário para outros circuitos).
+Supervisor de Potência (TL431ACD): Monitora e ajusta a tensão de saída.
+Controlador de Fonte com Proteção (TNY274GN): Fornece proteção adicional e estabilização da tensão.
+Controle PoE:
+
+Controlador PoE (TPS23754PWP): Gerencia a entrega de energia e dados via PoE. Ele detecta e alimenta o dispositivo conforme o padrão PoE.
+Conexões de Dados e Energia:
+
+Conector RJ45 com Magnetics Integrados (RJSSE-5380-02): Para a conexão de rede e entrega de energia PoE. A saída RJ45 será configurada para fornecer dados e energia.
+Resumo do Fluxo:
+Entrada AC → Fusível → Varistor e Capacitores → Retificador Sincronizado → Diodo Schottky → Regulador de Tensão → Controlador de Fonte com Proteção → Supervisor de Potência → Controlador PoE → Conector RJ45.

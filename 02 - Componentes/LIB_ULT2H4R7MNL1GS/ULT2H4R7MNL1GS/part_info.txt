@@ -1,0 +1,9 @@
+Manufacturer=Nichicon
+PartNumber=ULT2H4R7MNL1GS
+PartCategory=Capacitor Polarised
+PackageCategory=Capacitor Al Electrolytic
+PinCount=2
+Version=2.1
+Released=2019-01-23 09:41:43
+Downloaded=2024-09-10 16:06:37
+3D=Y

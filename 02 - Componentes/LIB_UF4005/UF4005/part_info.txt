@@ -1,0 +1,9 @@
+Manufacturer=Diotec
+PartNumber=UF4005
+PartCategory=Diode
+PackageCategory=Diodes, Axial Diameter Horizontal Mounting
+PinCount=2
+Version=1.1
+Released=2023-11-17 09:08:41
+Downloaded=2024-09-10 14:59:40
+3D=Y

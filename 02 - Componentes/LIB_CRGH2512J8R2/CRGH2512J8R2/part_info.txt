@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=CRGH2512J8R2
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=2.1
+Released=2023-03-07 10:39:31
+Downloaded=2024-09-10 15:56:12
+3D=Y

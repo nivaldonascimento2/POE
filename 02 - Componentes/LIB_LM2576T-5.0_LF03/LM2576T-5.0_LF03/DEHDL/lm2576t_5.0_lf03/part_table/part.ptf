@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LM2576T_5.0_LF03'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "LM2576T-5.0/LF03" (!) = "", "TO170P470X1028X2142-5P", "Transistor Outline, Vertical", "926-LM2576T-50/LF03", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM2576T-5.0-LF03?qs=X1J7HmVL2ZH5uJCvpAOFhw%3D%3D", "Texas Instruments, LM2576T-5.0/LF03 Step-Down Switching Regulator 3A, 5 V, 5-Pin TO-220, Buck Controller", "http://www.ti.com/lit/gpn/LM2576", "4.7 mm"
+END_PART
+
+END.

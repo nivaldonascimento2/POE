@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=1N5819-E3/54
+PartCategory=Schottky Diode
+PackageCategory=Diodes, Axial Diameter Horizontal Mounting
+PinCount=2
+Version=1.1
+Released=2018-08-20 09:17:45
+Downloaded=2024-09-09 17:42:08
+3D=Y

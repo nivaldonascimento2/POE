@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=LM2576T-5.0/LF03
+PartCategory=Integrated Circuit
+PackageCategory=Transistor Outline, Vertical
+PinCount=5
+Version=1.6
+Released=2021-04-16 10:08:07
+Downloaded=2024-09-09 17:42:54
+3D=Y

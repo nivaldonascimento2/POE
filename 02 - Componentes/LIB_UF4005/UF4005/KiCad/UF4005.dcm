@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP UF4005
+D Rectifiers Ultrafast, DO-41, 600V, 1A, 175C
+K
+F https://www.arrow.com/en/products/uf4005/diotec-semiconductor-ag?region=europe
+$ENDCMP
+#
+#End Doc Library

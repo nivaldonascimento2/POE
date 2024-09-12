@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_670934"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-05-23-05:48:54)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "381LR471M450A052")
+)
+
+
+(pinAssign "ECS_670934"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-05-23-05:48:54)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_670934")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "381LR471M450A052")
+)
+
+
+(part "381LR471M450A052"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-05-23-05:48:54)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "381LR471M450A052")
+    (pinAssignRef "ECS_670934")
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "CORNELL DUBILIER - 381LR471M450A052 - Electrolytic Capacitor, Snap-in, 470 F, 450 V, 381L Series, 3000 hours @ 105C, +/- 20%")
+    (property "Mouser_Part_Number" "598-81LR471M450A052")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Cornell-Dubilier-CDE/381LR471M450A052?qs=PXF%252Blbo4VJ5kdzYLKBk6bg%3D%3D")
+    (property "Manufacturer_Name" "Cornell Dubilier")
+    (property "Manufacturer_Part_Number" "381LR471M450A052")
+    (property "Datasheet_Link" "https://www.cde.com/resources/catalogs/381LR.pdf")
+    (property "compAreaTopHeight" 52)
+)
+
+

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "RCC1206_e3"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "RCC1206_e3")
+        (spec "default")
+    )
+)

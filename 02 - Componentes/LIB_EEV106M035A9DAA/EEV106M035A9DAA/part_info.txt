@@ -1,0 +1,9 @@
+Manufacturer=KEMET
+PartNumber=EEV106M035A9DAA
+PartCategory=Capacitor Polarised
+PackageCategory=Capacitor Al Electrolytic
+PinCount=2
+Version=3.1
+Released=2024-04-12 04:13:35
+Downloaded=2024-09-10 16:07:41
+3D=Y

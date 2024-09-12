@@ -1,0 +1,16 @@
+.11328-T060 :1 ;Power Transformers Flyback Transformer for LT8316, 600VIN, -40C to 125C, PQ2620: size 31 x 28.5 x 23.5 (H) mm max. PIN type 
+"11328T060"
+*STM T
+*NGS
+*PLB 1="NP_1" 2="NC_1" 3="NP_2" 4="NC_2" 5="NAUX_1" 6="NAUX_2" 7="NC_3" 8="NS_1" 9="NS_2" 10="NS_3" 11="NS_4" 12="NC_4"
+*MXP 12
+*DFN 11328-T060
+~!Mouser Part Number (851-11328-T060)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Sumida/11328-T060?qs=DRkmTr78QARgaZEAx0ESeA%3D%3D)
+~!Manufacturer_Name (Sumida)
+~!Manufacturer_Part_Number (11328-T060)
+~!Link Datasheet (https://www.mouser.in/datasheet/2/390/LT8316_PQ2620_Datasheet_ver_3_20190825-2199694.pdf)
+~!Height (23.5mm)
+~!3D_Model (11328-T060)
+"11328-T060"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 

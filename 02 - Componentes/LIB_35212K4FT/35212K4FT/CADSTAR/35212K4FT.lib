@@ -1,0 +1,16 @@
+.35212K4FT :1 ;Configuration Features: Number of Resistors 1 | Dimensions: Product Length 6.35 MM | Product Height .55 MM | Product Width .126 INCH | Product Length .25 INCH | Product Height .022 INCH | Product Width 3.2 MM | Electrical Characteristics: Passive Component Tolerance 1 PCT | Operating Voltage 250 V | Power Rating 2 WATT | Resistance Value 2.4K OHM | Resistance Class 1k  1M | Packaging Features: Packaging Method Taped & Reeled | Product Type Features: Package Size Code 2512 | Element Type Thick Film | 
+RESC6432X65N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN 35212K4FT
+~!Mouser Part Number (279-35212K4FT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/35212K4FT?qs=gNX%2FqcWHakm%2F8zqShP7huQ%3D%3D)
+~!Manufacturer_Name (TE Connectivity)
+~!Manufacturer_Part_Number (35212K4FT)
+~!Link Datasheet (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=9-1773463-5&DocType=Data%20Sheet&DocLang=English&PartCntxt=5-2176070-8&DocFormat=pdf)
+~!Height (0.65mm)
+~!3D_Model (35212K4FT)
+"35212K4FT"
+1.1!U 2.1!U 

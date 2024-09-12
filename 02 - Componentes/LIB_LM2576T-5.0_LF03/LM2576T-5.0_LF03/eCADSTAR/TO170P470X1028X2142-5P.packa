@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "LM2576T-5_0_LF03"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-09-05-08:21:04)
+    (mountForm default
+        (footprintRef "TO170P470X1028X2142-5P")
+        (spec "System")
+    )
+)

@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_13842025"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-09-22-11:30:31)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "RCC1206470RFKEA")
+)
+
+
+(pinAssign "ECS_13842025"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-09-22-11:30:31)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_13842025")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "RCC1206470RFKEA")
+)
+
+
+(part "RCC1206470RFKEA"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-09-22-11:30:31)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "RCC1206470RFKEA")
+    (pinAssignRef "ECS_13842025")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "R")
+    (property "description" "Medium Power Thick Film Chip Resistor, AEC-Q200, 1206")
+    (property "Mouser_Part_Number" "71-RCC1206470RFKEA")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/RCC1206470RFKEA?qs=IS%252B4QmGtzzpfKl99PQtQlQ%3D%3D")
+    (property "Manufacturer_Name" "Vishay")
+    (property "Manufacturer_Part_Number" "RCC1206470RFKEA")
+    (property "Datasheet_Link" "https://www.vishay.com/docs/20066/rcce3.pdf")
+    (property "compAreaTopHeight" 0.6)
+)
+
+

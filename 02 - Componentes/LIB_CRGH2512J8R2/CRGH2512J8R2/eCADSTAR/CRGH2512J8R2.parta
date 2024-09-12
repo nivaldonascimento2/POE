@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_14009000"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-10:39:31)
+    (utime 2024-04-02-15:21:58)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "CRGH2512J8R2")
+)
+
+
+(pinAssign "ECS_14009000"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-10:39:31)
+    (utime 2024-04-02-15:21:58)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_14009000")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "CRGH2512J8R2")
+)
+
+
+(part "CRGH2512J8R2"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-10:39:31)
+    (utime 2024-04-02-15:21:58)
+    (packageRef "CRGH2512J8R2")
+    (pinAssignRef "ECS_14009000")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "R")
+    (property "description" "Configuration Features: Number of Resistors 1 | Dimensions: Product Height .022 INCH | Product Length .25 INCH | Product Length 6.35 MM | Product Height .55 MM | Product Width .126 INCH | Product Width 3.2 MM | Electrical Characteristics: Resistance Class Up to 1k | Power Rating 2 WATT | Resistance Value 8.2 OHM | Passive Component Tolerance 5 PCT | Operating Voltage 250 V | Packaging Features: Packaging Method Taped & Reeled | Product Type Features: Package Size Code 2512 | Element Type Thick Film | Resi")
+    (property "Mouser_Part_Number" "279-CRGH2512J8R2")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/CRGH2512J8R2?qs=n4i9pByFsMSM5rRkdAkXnA%3D%3D")
+    (property "Manufacturer_Name" "TE Connectivity")
+    (property "Manufacturer_Part_Number" "CRGH2512J8R2")
+    (property "Datasheet_Link" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1309350_PASSIVE_COMPONENT&DocType=Catalog%20Section&DocLang=English&PartCntxt=2-1879501-3&DocFormat=pdf")
+    (property "compAreaTopHeight" 0.65)
+)
+
+

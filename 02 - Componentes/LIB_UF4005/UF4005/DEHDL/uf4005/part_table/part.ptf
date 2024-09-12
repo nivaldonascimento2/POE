@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'UF4005'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Diotec", "UF4005" (!) = "", "DIOAD1510W84L490D255", "Diodes, Axial Diameter Horizontal Mounting", "637-UF4005", "https://www.mouser.co.uk/ProductDetail/Diotec-Semiconductor/UF4005?qs=OlC7AqGiEDkmzrSpAlXJ9Q%3D%3D", "Rectifiers Ultrafast, DO-41, 600V, 1A, 175C", "https://www.arrow.com/en/products/uf4005/diotec-semiconductor-ag?region=europe"
+END_PART
+
+END.

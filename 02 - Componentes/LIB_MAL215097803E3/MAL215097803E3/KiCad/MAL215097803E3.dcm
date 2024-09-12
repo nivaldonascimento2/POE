@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAL215097803E3
+D Aluminum Electrolytic Capacitors - SMD 100UF 63V 105C 3000H
+K
+F https://www.vishay.com/docs/28395/150crz.pdf
+$ENDCMP
+#
+#End Doc Library

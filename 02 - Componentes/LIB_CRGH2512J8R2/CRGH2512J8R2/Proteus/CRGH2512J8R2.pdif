@@ -1,0 +1,91 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "CRGH2512J8R2"
+   (description "Configuration Features: Number of Resistors 1 | Dimensions: Product Height .022 INCH | Product Length .25 INCH | Product Length 6.35 MM | Product Height .55 MM | Product Width .126 INCH | Product Width 3.2 MM | Electrical Characteristics: Resistance Class Up to 1k | Power Rating 2 WATT | Resistance Value 8.2 OHM | Passive Component Tolerance 5 PCT | Operating Voltage 250 V | Packaging Features: Packaging Method Taped & Reeled | Product Type Features: Package Size Code 2512 | Element Type Thick Film | Resi")
+   (family "RES")
+   (package "RESC6432X65N")
+   (attribute "Datasheet Link" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1309350_PASSIVE_COMPONENT&DocType=Catalog%20Section&DocLang=English&PartCntxt=2-1879501-3&DocFormat=pdf")
+   (attribute "Geometry.Height" "0.65mm")
+   (attribute "Mouser Part Number" "279-CRGH2512J8R2")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/CRGH2512J8R2?qs=n4i9pByFsMSM5rRkdAkXnA%3D%3D")
+   (attribute "Manufacturer_Name" "TE Connectivity")
+   (attribute "Manufacturer_Part_Number" "CRGH2512J8R2")
+   (gate
+    (symbol "CRGH2512J8R2")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "CRGH2512J8R2"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 50) (pt 500 50) (pt 500 -50) (pt 200 -50) (pt 200 50) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 700 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "RESC6432X65N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -3.85 1.95)
+      (pt 3.85 1.95)
+      (pt 3.85 -1.95)
+      (pt -3.85 -1.95)
+      (pt -3.85 1.95))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.175 1.6)
+      (pt 3.175 1.6)
+      (pt 3.175 -1.6)
+      (pt -3.175 -1.6)
+      (pt -3.175 1.6))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 0 1.5)
+      (pt 0 -1.5))))
+   (leg 1 (pt -2.4 0) (padstack 0))
+   (leg 2 (pt 2.4 0) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 2.4 3.4 0 0 90))
+   )
+   (model "CRGH2512J8R2.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

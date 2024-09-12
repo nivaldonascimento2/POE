@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RCC1206470RFKEA'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "RCC1206470RFKEA" (!) = "", "RCC1206_e3", "Other", "71-RCC1206470RFKEA", "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/RCC1206470RFKEA?qs=IS%252B4QmGtzzpfKl99PQtQlQ%3D%3D", "Medium Power Thick Film Chip Resistor, AEC-Q200, 1206", "https://www.vishay.com/docs/20066/rcce3.pdf", "0.6 mm"
+END_PART
+
+END.

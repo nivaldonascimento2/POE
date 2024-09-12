@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT4320IMSE#PBF
+D Power Management Specialized - PMIC Ideal Diode Bridge Controller
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/f9c8f44be51ba9be14d0fe4fedec3709.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,16 @@
+.LM2576T-5.0_LF03 :1 ;Texas Instruments, LM2576T-5.0/LF03 Step-Down Switching Regulator 3A, 5 V, 5-Pin TO-220, Buck Controller
+TO170P470X1028X2142-5P
+*STM IC
+*NGS
+*PLB 1="VIN" 2="OUTPUT" 3="GROUND" 4="FEEDBACK" 5="'ON'/OFF"
+*MXP 5
+*DFN LM2576T-5.0_LF03
+~!Mouser Part Number (926-LM2576T-50/LF03)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM2576T-5.0-LF03?qs=X1J7HmVL2ZH5uJCvpAOFhw%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (LM2576T-5.0/LF03)
+~!Link Datasheet (http://www.ti.com/lit/gpn/LM2576)
+~!Height (4.7mm)
+~!3D_Model (LM2576T-5.0_LF03)
+LM2576T-5.0_LF03
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

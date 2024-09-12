@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CRGH2512J8R2'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "CRGH2512J8R2" (!) = "", "RESC6432X65N", "Resistor Chip", "279-CRGH2512J8R2", "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/CRGH2512J8R2?qs=n4i9pByFsMSM5rRkdAkXnA%3D%3D", "Configuration Features: Number of Resistors 1 | Dimensions: Product Height .022 INCH | Product Length .25 INCH | Product Length 6.35 MM | Product Height .55 MM | Product Width .126 INCH | Product Width 3.2 MM | Electrical Characteristics: Resistance Class Up to 1k | Power Rating 2 WATT | Resistance Value 8.2 OHM | Passive Component Tolerance 5 PCT | Operating Voltage 250 V | Packaging Features: Packaging Method Taped & Reeled | Product Type Features: Package Size Code 2512 | Element Type Thick Film | Resi", "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1309350_PASSIVE_COMPONENT&DocType=Catalog%20Section&DocLang=English&PartCntxt=2-1879501-3&DocFormat=pdf", "0.65 mm"
+END_PART
+
+END.

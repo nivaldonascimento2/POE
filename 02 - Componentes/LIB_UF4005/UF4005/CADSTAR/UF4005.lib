@@ -1,0 +1,16 @@
+.UF4005 :1 ;Rectifiers Ultrafast, DO-41, 600V, 1A, 175C
+DIOAD1510W84L490D255
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN UF4005
+~!Mouser Part Number (637-UF4005)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Diotec-Semiconductor/UF4005?qs=OlC7AqGiEDkmzrSpAlXJ9Q%3D%3D)
+~!Manufacturer_Name (Diotec)
+~!Manufacturer_Part_Number (UF4005)
+~!Link Datasheet (https://www.arrow.com/en/products/uf4005/diotec-semiconductor-ag?region=europe)
+~!Height (-)
+~!3D_Model (UF4005)
+UF4005
+1.1!U 2.1!U 

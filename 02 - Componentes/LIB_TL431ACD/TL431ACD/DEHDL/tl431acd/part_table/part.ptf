@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TL431ACD'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TL431ACD" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "595-TL431ACD", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TL431ACD?qs=b0gIXGU74fOOZ7NbSZF2Kg%3D%3D", "TL431ACD, Adjustable Voltage Reference 2.5 to 36V, 1% 100mA 37V max. 8-Pin SOIC", "https://www.ti.com/lit/ds/symlink/tl431.pdf?HQS=TI-null-null-mousermode-df-pf-null-wwe&ts=1593427466636&ref_url=https%253A%252F%252Fwww.mouser.in%252F", "1.75 mm"
+END_PART
+
+END.

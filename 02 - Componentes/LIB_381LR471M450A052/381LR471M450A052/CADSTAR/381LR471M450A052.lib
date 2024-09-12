@@ -1,0 +1,16 @@
+.381LR471M450A052 :1 ;CORNELL DUBILIER - 381LR471M450A052 - Electrolytic Capacitor, Snap-in, 470 F, 450 V, 381L Series, 3000 hours @ 105C, +/- 20%
+CAPPRD1000W190D3550H5200
+*STM C
+*NGS
+*PLB 1="+" 2="-"
+*MXP 2
+*DFN 381LR471M450A052
+~!Mouser Part Number (598-81LR471M450A052)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Cornell-Dubilier-CDE/381LR471M450A052?qs=PXF%252Blbo4VJ5kdzYLKBk6bg%3D%3D)
+~!Manufacturer_Name (Cornell Dubilier)
+~!Manufacturer_Part_Number (381LR471M450A052)
+~!Link Datasheet (https://www.cde.com/resources/catalogs/381LR.pdf)
+~!Height (52mm)
+~!3D_Model (381LR471M450A052)
+"381LR471M450A052"
+1.1!U 2.1!U 

@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=ERJ-U6QJR47V
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=1.1
+Released=2022-04-14 11:51:14
+Downloaded=2024-09-10 16:32:57
+3D=Y

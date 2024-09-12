@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-08022019-044330";"";
+"REFERENCE";"px0580-63";"";
+"TraceParts.PartTitle";"IEC Connectors, px0580-63";"";
+"TraceParts.InstanceId";"90-08022019-0443302N3XX9WWY2MK673V115V3T3RA";"";
+"DESIGN";"IEC Connectors, px0580-63";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Bulgin";"";
+"TraceParts.PartVersion";"1.0.1";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"BULGIN:90-08022019-044330";"";

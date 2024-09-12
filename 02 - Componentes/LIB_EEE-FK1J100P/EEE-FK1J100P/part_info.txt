@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=EEE-FK1J100P
+PartCategory=Capacitor Polarised
+PackageCategory=Other
+PinCount=2
+Version=6.2
+Released=2018-12-26 14:51:44
+Downloaded=2024-09-10 19:08:34
+3D=Y

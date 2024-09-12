@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_1109679"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-04-12-04:13:35)
+    (utime 2024-06-25-08:06:41)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "EEV106M035A9DAA")
+)
+
+
+(pinAssign "ECS_1109679"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-04-12-04:13:35)
+    (utime 2024-06-25-08:06:41)
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1109679")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "EEV106M035A9DAA")
+)
+
+
+(part "EEV106M035A9DAA"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-04-12-04:13:35)
+    (utime 2024-06-25-08:06:41)
+    (packageRef "EEV106M035A9DAA")
+    (pinAssignRef "ECS_1109679")
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "EEV, Aluminum, Aluminum Electrolytic, 10 uF, 20%, 35 VDC, -55/+105C, 105C, -55C, 105C, 2,000 Hrs, 12 % , 1 Ohms,0.112, 3.5 uA, 2, 3, 5mm, 5.4mm, 1000")
+    (property "Mouser_Part_Number" "80-EEV106M035A9DAA")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/KEMET/EEV106M035A9DAA?qs=T9vdlufmP8w%252BWofJB8ECzg%3D%3D")
+    (property "Manufacturer_Name" "KEMET")
+    (property "Manufacturer_Part_Number" "EEV106M035A9DAA")
+    (property "Datasheet_Link" "https://content.kemet.com/datasheets/KEM_A4002_EEV.pdf")
+    (property "compAreaTopHeight" 5.65)
+)
+
+

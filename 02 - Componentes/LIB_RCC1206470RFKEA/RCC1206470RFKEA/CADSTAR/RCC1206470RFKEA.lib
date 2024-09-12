@@ -1,0 +1,16 @@
+.RCC1206470RFKEA :1 ;Medium Power Thick Film Chip Resistor, AEC-Q200, 1206
+RCC1206_e3
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN RCC1206470RFKEA
+~!Mouser Part Number (71-RCC1206470RFKEA)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Dale/RCC1206470RFKEA?qs=IS%252B4QmGtzzpfKl99PQtQlQ%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (RCC1206470RFKEA)
+~!Link Datasheet (https://www.vishay.com/docs/20066/rcce3.pdf)
+~!Height (0.6mm)
+~!3D_Model (RCC1206470RFKEA)
+RCC1206470RFKEA
+1.1!U 2.1!U 

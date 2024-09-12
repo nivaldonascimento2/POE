@@ -1,0 +1,281 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "CRJ011-ML1-TH" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "J" (id 0) (at -7.62 26.162 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "CRJ011-ML1-TH" (id 1) (at -7.62 -26.162 0)
+      (effects (font (size 1.27 1.27)) (justify top left))
+    )
+    (property "Footprint" "CRJ011-ML1-TH:CUI_CRJ011-ML1-TH" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MF" "CUI Devices" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MAXIMUM_PACKAGE_HEIGHT" "13.6 mm" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Package" "None" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Price" "None" (id 7) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Check_prices" "https://www.snapeda.com/parts/CRJ011-ML1-TH/Same+Sky/view-part/?ref=eda" (id 8) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "STANDARD" "Manufacturer Recommendations" (id 9) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "PARTREV" "1.0" (id 10) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "SnapEDA_Link" "https://www.snapeda.com/parts/CRJ011-ML1-TH/Same+Sky/view-part/?ref=snap" (id 11) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MP" "CRJ011-ML1-TH" (id 12) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=6363047&manufacturer=CUI Devices&part_name=CRJ011-ML1-TH&search_term=modular jack rj45 fêmea 8p8c 90g 55-05" (id 13) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Description" "10/100 BaseT, 8P8C, Horizontal, Blindado, LED, Through Hole, Revestimento de 6 µin, RJ45 com Conector Modular Magnético Integrado" (id 14) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "CUI_purchase_URL" "https://www.cuidevices.com/product/interconnect/connectors/modular-connectors/rj45-connectors/crj011-ml1-th?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM" (id 15) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Availability" "In Stock" (id 16) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MANUFACTURER" "CUI Devices" (id 17) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "CRJ011-ML1-TH_0_0"
+      (text "YL" (at 0.889 -3.302 0)
+        (effects (font (size 1.016 1.016)) (justify top left))
+      )
+      (text "GN" (at 0.889 -13.97 0)
+        (effects (font (size 1.016 1.016)) (justify top left))
+      )
+      (polyline
+        (pts (xy -2.794 -2.921) (xy -1.778 -4.572)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.778 -4.572) (xy -0.762 -2.921)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -2.921 -4.572) (xy -1.778 -4.572)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.778 -4.572) (xy -0.508 -4.572)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -2.794 -2.921) (xy -0.762 -2.921)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.778 0.0) (xy -1.778 -2.794)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -1.778 -4.699) (xy -1.778 -7.62)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.794 -5.461) (xy -3.81 -6.477)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -3.937 -5.334) (xy -4.953 -6.35)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts
+          (xy -3.81 -6.477)
+          (xy -2.921 -6.096)
+          (xy -3.429 -5.588)
+          (xy -3.81 -6.477)
+        )
+        (stroke (width 0.1524)) (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy -4.953 -6.35)
+          (xy -4.064 -5.969)
+          (xy -4.572 -5.461)
+          (xy -4.953 -6.35)
+        )
+        (stroke (width 0.1524)) (fill (type outline))
+      )
+      (polyline
+        (pts (xy -2.794 -13.081) (xy -1.778 -14.732)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.778 -14.732) (xy -0.762 -13.081)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -2.921 -14.732) (xy -1.778 -14.732)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.778 -14.732) (xy -0.508 -14.732)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -2.794 -13.081) (xy -0.762 -13.081)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.778 -10.16) (xy -1.778 -12.954)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -1.778 -14.859) (xy -1.778 -17.78)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.794 -15.621) (xy -3.81 -16.637)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -3.937 -15.494) (xy -4.953 -16.51)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts
+          (xy -3.81 -16.637)
+          (xy -2.921 -16.256)
+          (xy -3.429 -15.748)
+          (xy -3.81 -16.637)
+        )
+        (stroke (width 0.1524)) (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy -4.953 -16.51)
+          (xy -4.064 -16.129)
+          (xy -4.572 -15.621)
+          (xy -4.953 -16.51)
+        )
+        (stroke (width 0.1524)) (fill (type outline))
+      )
+      (polyline
+        (pts (xy -1.778 0.0) (xy -7.62 0.0)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -1.778 -7.62) (xy -7.62 -7.62)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -1.778 -10.16) (xy -7.62 -10.16)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -1.778 -17.78) (xy -7.62 -17.78)) (stroke (width 0.1524))
+      )
+      (rectangle (start -7.62 -25.4) (end 7.62 25.4)
+        (stroke (width 0.254)) (fill (type background))
+      )
+      (pin passive line (at -12.7 22.86 0) (length 5.08)
+        (name "P1"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 -7.62 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "10"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 0.0 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "9"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 -17.78 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "12"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 -10.16 0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "11"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 -22.86 0) (length 5.08)
+        (name "SHIELD"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "S1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 -22.86 0) (length 5.08)
+        (name "SHIELD"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "S2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 20.32 0) (length 5.08)
+        (name "P2"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 17.78 0) (length 5.08)
+        (name "P3"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 15.24 0) (length 5.08)
+        (name "P4"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P4"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 12.7 0) (length 5.08)
+        (name "P5"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P5"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 10.16 0) (length 5.08)
+        (name "P6"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P6"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 7.62 0) (length 5.08)
+        (name "P7"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P7"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at -12.7 5.08 0) (length 5.08)
+        (name "P8"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "P8"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)

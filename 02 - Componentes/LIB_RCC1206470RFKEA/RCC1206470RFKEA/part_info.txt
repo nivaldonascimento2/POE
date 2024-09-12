@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=RCC1206470RFKEA
+PartCategory=Resistor
+PackageCategory=Other
+PinCount=2
+Version=2.1
+Released=2021-09-22 11:30:31
+Downloaded=2024-09-10 18:52:59
+3D=Y

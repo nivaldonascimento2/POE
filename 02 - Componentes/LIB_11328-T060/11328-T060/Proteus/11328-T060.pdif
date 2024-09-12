@@ -1,0 +1,175 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "11328-T060"
+   (description "Power Transformers Flyback Transformer for LT8316, 600VIN, -40C to 125C, PQ2620: size 31 x 28.5 x 23.5 (H) mm max. PIN type ")
+   (family "XFR")
+   (package "11328T060")
+   (attribute "Datasheet Link" "https://www.mouser.in/datasheet/2/390/LT8316_PQ2620_Datasheet_ver_3_20190825-2199694.pdf")
+   (attribute "Geometry.Height" "23.5mm")
+   (attribute "Mouser Part Number" "851-11328-T060")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Sumida/11328-T060?qs=DRkmTr78QARgaZEAx0ESeA%3D%3D")
+   (attribute "Manufacturer_Name" "Sumida")
+   (attribute "Manufacturer_Part_Number" "11328-T060")
+   (gate
+    (symbol "11328-T060")
+    (pin "NP_1" 1 PS)
+    (pin "NC_1" 2 PS)
+    (pin "NP_2" 3 PS)
+    (pin "NC_2" 4 PS)
+    (pin "NAUX_1" 5 PS)
+    (pin "NAUX_2" 6 PS)
+    (pin "NC_3" 7 PS)
+    (pin "NS_1" 8 PS)
+    (pin "NS_2" 9 PS)
+    (pin "NS_3" 10 PS)
+    (pin "NS_4" 11 PS)
+    (pin "NC_4" 12 PS)
+   )
+  )
+  (symbol "11328-T060"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1000 100) (pt 1000 -600) (pt 200 -600) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "11328T060"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.8 2.57)
+      (pt 28.2 2.57)
+      (pt 28.2 -25.43)
+      (pt -2.8 -25.43)
+      (pt -2.8 2.57))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -2.8 2.57)
+      (pt 28.2 2.57)
+      (pt 28.2 -25.43)
+      (pt -2.8 -25.43)
+      (pt -2.8 2.57))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.8 3.57)
+      (pt 29.2 3.57)
+      (pt 29.2 -26.43)
+      (pt -3.8 -26.43)
+      (pt -3.8 3.57))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -3.4 0)
+      (arc (pt -3.400 0.000) (pt -3.400 -0.050) (pt -3.300 0.050) (start 180.0) (sweep -180.0))
+      (pt -3.3 0)
+      (arc (pt -3.300 0.000) (pt -3.400 -0.050) (pt -3.300 0.050) (start 180.0) (sweep .0))
+      (pt -3.4 0)
+      (pt -3.3 0))))
+   (leg 1 (pt 0.000 0.000) (padstack 1))
+   (leg 2 (pt 0.000 -3.810) (padstack 0))
+   (leg 3 (pt 0.000 -7.620) (padstack 0))
+   (leg 4 (pt 0.000 -15.240) (padstack 0))
+   (leg 5 (pt 0.000 -19.050) (padstack 0))
+   (leg 6 (pt 0.000 -22.860) (padstack 0))
+   (leg 7 (pt 25.400 -22.860) (padstack 0))
+   (leg 8 (pt 25.400 -19.050) (padstack 0))
+   (leg 9 (pt 25.400 -15.240) (padstack 0))
+   (leg 10 (pt 25.400 -7.620) (padstack 0))
+   (leg 11 (pt 25.400 -3.810) (padstack 0))
+   (leg 12 (pt 25.400 0.000) (padstack 0))
+   (padstack 0
+    (hole 1.1)
+    (plated true)
+    (pad (layer TCOP) (round 1.650))
+    (pad (layer INNER) (round 1.650))
+    (pad (layer BCOP) (round 1.650))
+   )
+   (padstack 1
+    (hole 1.1)
+    (plated true)
+    (pad (layer TCOP) (square 1.650))
+    (pad (layer INNER) (round 1.650))
+    (pad (layer BCOP) (square 1.650))
+   )
+   (model "11328-T060.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

@@ -1,0 +1,9 @@
+Manufacturer=Sumida
+PartNumber=11328-T060
+PartCategory=Transformer
+PackageCategory=Other
+PinCount=12
+Version=1.8
+Released=2021-09-17 08:48:42
+Downloaded=2024-09-11 13:37:19
+3D=Y

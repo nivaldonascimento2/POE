@@ -1,0 +1,92 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "RCC1206470RFKEA"
+   (description "Medium Power Thick Film Chip Resistor, AEC-Q200, 1206")
+   (family "RES")
+   (package "RCC1206_e3")
+   (attribute "Datasheet Link" "https://www.vishay.com/docs/20066/rcce3.pdf")
+   (attribute "Geometry.Height" "0.6mm")
+   (attribute "Mouser Part Number" "71-RCC1206470RFKEA")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/RCC1206470RFKEA?qs=IS%252B4QmGtzzpfKl99PQtQlQ%3D%3D")
+   (attribute "Manufacturer_Name" "Vishay")
+   (attribute "Manufacturer_Part_Number" "RCC1206470RFKEA")
+   (gate
+    (symbol "RCC1206470RFKEA")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "RCC1206470RFKEA"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 50) (pt 500 50) (pt 500 -50) (pt 200 -50) (pt 200 50) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 700 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "RCC1206_e3"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.6 0.8)
+      (pt 1.6 0.8)
+      (pt 1.6 -0.8)
+      (pt -1.6 -0.8)
+      (pt -1.6 0.8))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (circle
+      (pt -2.425 0) (pt -2.325 0)
+     )
+    )
+   )
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -3.275 1.8)
+      (pt 2.6 1.8)
+      (pt 2.6 -1.8)
+      (pt -3.275 -1.8)
+      (pt -3.275 1.8))))
+   (leg 1 (pt -1.275 0) (padstack 0))
+   (leg 2 (pt 1.275 0) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.05 1.8 0 0 90))
+   )
+   (model "RCC1206470RFKEA.stp"
+    (euler 90 0 0)
+    (offset 1.600000023841858 0.800000011920929 0)
+   )
+  )
+ )
+)

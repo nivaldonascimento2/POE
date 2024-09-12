@@ -1,0 +1,16 @@
+.LT4320IMSE_PBF :1 ;Power Management Specialized - PMIC Ideal Diode Bridge Controller
+SOP65P490X110-12N
+*STM IC
+*NGS
+*PLB 1="IN2" 2="TG2" 3="NC_1" 4="NC_2" 5="BG2" 6="BG1" 7="OUTN" 8="NC_3" 9="OUTP" 10="NC_4" 11="TG1" 12="IN1"
+*MXP 12
+*DFN LT4320IMSE_PBF
+~!Mouser Part Number (584-LT4320IMSE#PBF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/LT4320IMSEPBF?qs=hVkxg5c3xu85qzc54VnZtw%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (LT4320IMSE#PBF)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/f9c8f44be51ba9be14d0fe4fedec3709.pdf)
+~!Height (1.1mm)
+~!3D_Model (LT4320IMSE#PBF)
+LT4320IMSE_PBF
+1.1!I 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 12.1!I 11.1!U 10.1!U 9.1!Y 8.1!U 7.1!Y 

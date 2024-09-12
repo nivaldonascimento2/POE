@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=35212K4FT
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=3.1
+Released=2018-11-30 05:11:51
+Downloaded=2024-09-10 19:26:50
+3D=Y

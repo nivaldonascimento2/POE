@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '35212K4FT'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "35212K4FT" (!) = "", "RESC6432X65N", "Resistor Chip", "279-35212K4FT", "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/35212K4FT?qs=gNX%2FqcWHakm%2F8zqShP7huQ%3D%3D", "Configuration Features: Number of Resistors 1 | Dimensions: Product Length 6.35 MM | Product Height .55 MM | Product Width .126 INCH | Product Length .25 INCH | Product Height .022 INCH | Product Width 3.2 MM | Electrical Characteristics: Passive Component Tolerance 1 PCT | Operating Voltage 250 V | Power Rating 2 WATT | Resistance Value 2.4K OHM | Resistance Class 1k  1M | Packaging Features: Packaging Method Taped & Reeled | Product Type Features: Package Size Code 2512 | Element Type Thick Film | ", "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=9-1773463-5&DocType=Data%20Sheet&DocLang=English&PartCntxt=5-2176070-8&DocFormat=pdf", "0.65 mm"
+END_PART
+
+END.

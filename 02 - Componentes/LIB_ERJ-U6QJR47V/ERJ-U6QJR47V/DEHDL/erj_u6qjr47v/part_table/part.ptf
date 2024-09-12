@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ERJ_U6QJR47V'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Panasonic", "ERJ-U6QJR47V" (!) = "", "RESC2012X65N", "Resistor Chip", "667-ERJ-U6QJR47V", "https://www.mouser.co.uk/ProductDetail/Panasonic/ERJ-U6QJR47V?qs=5aG0NVq1C4wLyK2PwyO%252BIA%3D%3D", "Thick Film Resistors - SMD 0805 0.25W 5% .47ohms AEC-Q200", "https://industrial.panasonic.com/cdbs/www-data/pdf/RDP0000/AOA0000C334.pdf", "0.65 mm"
+END_PART
+
+END.
