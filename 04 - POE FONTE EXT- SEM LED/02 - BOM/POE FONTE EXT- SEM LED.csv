@@ -1,0 +1,7 @@
+"Reference","Value","Datasheet","Footprint","Qty","DNP"
+"C1","SMDIC04100TB00KQ00","","Equatorial_foot:CAP_SMDIC04100TB00KQ00","1",""
+"D1","SMBJ58A","","Equatorial_foot:DIOM4336X265N","1",""
+"F1","696101000002","https://www.we-online.com/components/products/datasheet/696101000002.pdf","Equatorial_foot:696101000002","1",""
+"J1,J2","RJ45-8P8C","https://produto.mercadolivre.com.br/MLB-1210845845-10-pecas-modular-jack-rj45-fmea-blindado-8p8c-90g-59-01-_JM#is_advertising=true&position=1&search_layout=stack&type=pad&tracking_id=03e7eab5-b451-4c6e-90d8-78c3e4fae9cb&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=NGJiY2RlNDktNTllMC00NGZiLTk4ODYtZDg0NjhlOGI5ZmE1","Equatorial_foot:RJ45-8P8C","2",""
+"J3","DCJ200-10-A-XX-K_REVA","https://4donline.ihs.com/images/VipMasterIC/IC/GCTI/GCTI-S-A0001311865/GCTI-S-A0001311865-1.pdf?hkey=6D3A4C79FDBF58556ACFDE234799DDF0","Equatorial_foot:GCT_DCJ200-10-A-XX-K_REVA","1",""
+"RV1","V56MLA1206N","","Equatorial_foot:VARC3216X180N","1",""

@@ -1,0 +1,326 @@
+Conversão de STEP para o Solid Edge
+Data: sexta-feira,setembro 13,2024 02:34
+Arquivo de Origem: C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led.step
+Autor: Pcbnew
+Organização: Kicad
+Sistema de origem: KiCad to STEP converter
+
+Hardware:
+Processador: Intel(R) Core(TM) i5-3470S CPU @ 2.90GHz
+Sistema operacional: Windows 10 Professional Version:22H2 Build:19045 System Type:64-bit
+Memória instalada: 7.87 GB
+
+Informações do software
+Versão do Parasolid: 36.0.142
+Versão do PSBodyShop: 36.0.108
+Versão do Adaptador de Passo: 13.0.163
+Versão do Solid Edge: 224.00.00.101 x64
+
+Opções de importação do STEP
+Importar Corpos Facetados: Ativo
+Importar Corpos de Verificação: Desativado
+Importar Curvas: Ativo
+Importar NãoSalvar: Ativo
+Importar Várias Corpos como um Único Arquivo de Peça: Ativo
+Otimização de Importação:Desativado
+Importar Superfícies de Costura: Ativo
+Importar Sólidos Booleanos: Ativo
+Tornar recurso básico: Ativo
+Simplificar geometria: Ativo
+Importar Curvas de Impressão: Ativo
+Importar Unidade: C:
+Importar Superfícies de Costura: Ativo
+Importar Superfícies: Ativo
+Importar Caminho de Saída: C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led
+Importar Habilitar Caminho de Saída Padrão: Ativo
+Importar PMI: Desativado
+Importar Como Componentes Internos: Desativado
+Importar Caminho: 
+
+Convertendo para tipos de dado do Parasolid...
++Iniciar Montagem: 1
++C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led.asm Arquivo de Montagem SE Criado
+|--+Iniciar Montagem: 2
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\px0580-63.asm Arquivo de Montagem SE Criado
+|  |--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\px0580-63.par Arquivo de Peça SE Criado
+|--+Total de Peças: 2
+|--+Montagens: 0
+|--+Corpos Sólidos: 2
+|--+Corpos em chapa: 0
+|--+Finalizar Montagem: 2
+|--+Iniciar Montagem: 2
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\RJ45-8N-B.asm Arquivo de Montagem SE Criado
+|  |--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\RJ45-8N-B.par Arquivo de Peça SE Criado
+|--+Total de Peças: 36
+|--+Montagens: 0
+|--+Corpos Sólidos: 36
+|--+Corpos em chapa: 0
+|--+Finalizar Montagem: 2
+|--+Iniciar Montagem: 2
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\Converter_ACDC_Hi-Link_HLK-10Mxx.asm Arquivo de Montagem SE Criado
+|  |--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\Converter_ACDC_Hi-Link_HLK-10Mxx.par Arquivo de Peça SE Criado
+|--+Total de Peças: 2
+|--+Montagens: 0
+|--+Corpos Sólidos: 2
+|--+Corpos em chapa: 0
+|--+Finalizar Montagem: 2
+|--+Iniciar Montagem: 2
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\SC-02-E115J.asm Arquivo de Montagem SE Criado
+|  |--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\SC-02-E115J.par Arquivo de Peça SE Criado
+|--+Total de Peças: 2
+|--+Montagens: 0
+|--+Corpos Sólidos: 2
+|--+Corpos em chapa: 0
+|--+Finalizar Montagem: 2
+|--+Iniciar Montagem: 2
+|--+Reutilizando Arquivo C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\RJ45-8N-B.asm
+|--+Total de Peças: 0
+|--+Montagens: 0
+|--+Corpos Sólidos: 0
+|--+Corpos em chapa: 0
+|--+Finalizar Montagem: 2
+|--+Iniciar Montagem: 2
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\MOV-10D511K.asm Arquivo de Montagem SE Criado
+|  |--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\MOV-10D241K.par Arquivo de Peça SE Criado
+|--+Total de Peças: 6
+|--+Montagens: 0
+|--+Corpos Sólidos: 6
+|--+Corpos em chapa: 0
+|--+Finalizar Montagem: 2
+|--+Iniciar Montagem: 2
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\R523N415050P1M.asm Arquivo de Montagem SE Criado
+|  |--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\CFR_RB2_26.5X18.5X10_L26.8H18.6T10.2S22.5LL27F0.85.par Arquivo de Peça SE Criado
+|--+Total de Peças: 8
+|--+Montagens: 0
+|--+Corpos Sólidos: 8
+|--+Corpos em chapa: 0
+|--+Finalizar Montagem: 2
+|--+Iniciar Montagem: 2
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\696101000002.asm Arquivo de Montagem SE Criado
+|  |--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\696101000002.par Arquivo de Peça SE Criado
+|--+Total de Peças: 6
+|--+Montagens: 0
+|--+Corpos Sólidos: 6
+|--+Corpos em chapa: 0
+|--+Finalizar Montagem: 2
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_1.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_2.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_3.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_4.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_5.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_6.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_7.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_8.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_9.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_10.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_11.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_12.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_13.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_14.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_15.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_16.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_17.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_18.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_19.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_20.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_21.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_22.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_23.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_24.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_25.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_26.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_27.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_28.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_29.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_30.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_31.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_32.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_33.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_34.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_35.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_36.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_37.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_38.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_39.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_40.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_41.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_42.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_43.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_44.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_45.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_46.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_47.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_48.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_49.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_50.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_51.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_52.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_53.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_54.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_55.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_56.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_57.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_58.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_59.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_60.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_61.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_62.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_63.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_64.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_65.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_track_66.par Arquivo de Peça SE Criado
+Corpos:  0
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_1.par Arquivo de Peça SE Criado
+Corpos:  0
+Corpos:  0
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_2.par Arquivo de Peça SE Criado
+Corpos:  0
+Corpos:  0
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_3.par Arquivo de Peça SE Criado
+Corpos:  0
+Corpos:  0
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_4.par Arquivo de Peça SE Criado
+Corpos:  0
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_5.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_6.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_7.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_8.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_9.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_10.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_11.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_12.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_13.par Arquivo de Peça SE Criado
+Corpos:  0
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_14.par Arquivo de Peça SE Criado
+Corpos:  0
+Corpos:  0
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_15.par Arquivo de Peça SE Criado
+Corpos:  0
+Corpos:  0
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_16.par Arquivo de Peça SE Criado
+Corpos:  0
+Corpos:  0
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_17.par Arquivo de Peça SE Criado
+Corpos:  0
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_18.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_19.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_20.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_21.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_22.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_23.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_24.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_25.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_26.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_27.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_28.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_29.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_30.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_31.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_32.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_33.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_34.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_35.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_36.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_37.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_38.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_39.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_40.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_41.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_42.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_43.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_44.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_45.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_46.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_47.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_48.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_49.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_50.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_51.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_52.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_53.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_54.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_55.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_56.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_57.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_58.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_59.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_60.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_61.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_62.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_63.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_64.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_65.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_66.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_67.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_68.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_69.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_70.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_71.par Arquivo de Peça SE Criado
+Corpos:  0
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_72.par Arquivo de Peça SE Criado
+Corpos:  0
+Corpos:  0
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_73.par Arquivo de Peça SE Criado
+Corpos:  0
+Corpos:  0
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_74.par Arquivo de Peça SE Criado
+Corpos:  0
+Corpos:  0
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_75.par Arquivo de Peça SE Criado
+Corpos:  0
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_76.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_77.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_78.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_79.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_80.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_81.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_82.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_83.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_84.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_85.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_86.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_87.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_88.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_89.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_90.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_91.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_92.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_93.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_94.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_95.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_96.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_97.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_98.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_99.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_100.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_101.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_102.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_103.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_104.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_105.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_106.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_107.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_108.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_109.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_110.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_111.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_112.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_113.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_114.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_115.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_116.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_117.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_118.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_119.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_120.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_121.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_122.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_pad_123.par Arquivo de Peça SE Criado
+|--+C:\Users\Equatorial Sistemas\Documents\01 - GitHub\POE\06 - POE Fonte Interna_sem led\POE Fonte Interna_sem led\POE Fonte Interna_sem led_PCB.par Arquivo de Peça SE Criado
++Total de Peças: 365
++Montagens: 7
++Corpos Sólidos: 358
++Corpos em chapa: 0
++Finalizar Montagem: 1
+Processo de conversão completo
+Tempo total necessário para converter e processar posteriormente:00 : 00 : 18
